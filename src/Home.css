@@ -1,0 +1,40 @@
+
+
+.container{
+    background-color:#342830 ;
+    color: white;
+    font-style:oblique;
+    }
+  
+  
+    .heading{
+      text-align:center;
+    }
+  
+  
+    .services{
+      font-size:larger;
+      font-weight:500;
+      font-style: oblique;
+    }
+  
+  
+    .main{
+      background-color:#d9d9d9;
+    }
+  
+  .row{
+   padding-left: 70px;
+  }
+    
+  
+  .wrapper{
+    text-align: center;
+  }
+  
+  .b1{
+    background-color: #262626;
+  color: grey;
+  border: none;
+  }
+  

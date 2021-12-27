@@ -1,0 +1,40 @@
+.B{
+    animation: bounceInDown;
+     animation-duration: 0.25s;
+       margin-bottom:10px;
+       background-color:	rgb(89, 89, 89);
+       text-align: center;
+       color:burlywood;
+   }
+    .carousel-inner img {
+       width: 100%;
+       height: 100%;
+       
+     }
+   .A{
+       margin-left: 250px;
+       font-family:italic;
+       font-weight:bold;
+       font-size-adjust:auto;
+   }  
+   
+   
+      .D{
+       height: 300px;
+     }
+     .W{
+       background-color:gainsboro;
+     }
+    
+   #float{
+       
+       float:left;
+   }
+
+   #gif{
+       width: 100%;
+       height: 600px;
+   }
+  #AboutUs{
+    background-color:antiquewhite;
+  }

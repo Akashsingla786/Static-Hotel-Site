@@ -1,0 +1,72 @@
+h1{
+    animation: pulse 2s infinite;
+    text-shadow: 5px 5px 5px black, 7px 7px 7px #342830;
+    
+}
+
+#form1{
+background-color: grey;
+height: 400px;
+width: 800px;
+margin: auto;
+margin-top: 100px;
+opacity: 0.9;
+box-shadow: 0 4px 8px 0 black,0 2px 20px 0 black;
+}
+#fg {
+border:none;
+width: 400px;
+margin-top: 38px;
+position: absolute;
+}
+#content{
+border:1px solid black;
+margin: 10px;
+margin-left: 8px;
+padding: 5px;
+}	
+#content #input-group{
+border: none;
+outline: none;
+background: transparent;
+margin-left: 8px;
+width: 300px;
+color: black;
+}
+::placeholder{
+color: black;
+}
+.fas{
+display: inline-block;
+border-right: 1px solid black;
+color: black;
+padding: 8px;
+margin-left: 8px;
+}
+#sg {
+border:none;
+width: 400px;
+margin-top: 56px;
+margin-left: 400px;
+
+}
+#submit-btn{
+margin-top: 30px;
+margin-left: 330px;
+background-color: black;
+color: #fff;
+width: 150px;
+border:1px solid #000;
+outline: none;
+padding: 15px;
+font-size: 20px;
+text-shadow: 2px 2px 5px red;
+}
+#submit-btn:hover{
+text-shadow: 2px 2px 5px red;
+}
+#body{
+   
+    background-image: url(https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+   
+}
